@@ -2148,8 +2148,21 @@ part of that Diameter, so is Unity the supposed
 Diameter. <hi>Example,</hi> the <hi>Area</hi> answering to 665
 parts of the <hi>Radius</hi> of a Circlewhose <hi>Area</hi> is
 3.14159 is 0.91354794 therefore,</p>
-                        <figure/>
-                        <figure/>
+                        <p>As 3.14159265 is to 0.91354794: So is <gap reason="illegible: faint" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>.
+<pb facs="tcp:63077:31"/>
+                           <figure/>
+                           <pb facs="tcp:63077:32"/>
+                           <figure/>
+                           <pb n="45" facs="tcp:63077:32"/>
+to 290791, the <hi>Area</hi> required; and the Table
+being thus computed to the 1000 parts of the
+<hi>Radius,</hi> we have enlarged it by the difference to
+the 5000 parts of the <hi>Radius,</hi> and consequently
+to the ten thousandth part of the Diameter: The
+use of which Table shall be shewed when we come
+to the measuring of Solid Bodies.</p>
                      </div>
                   </div>
                   <div n="9" type="chapter">
@@ -3421,7 +3434,11 @@ be found not exceeding the three foot. The
 Proportion by which the Table was made, is thus.
 As 1. to 3.14159 so is the Diameter given, to
 the circumference required.</p>
-                        <figure/>
+                        <p>
+                           <pb facs="tcp:63077:47"/>
+                           <pb facs="tcp:63077:48"/>
+                           <figure/>
+                        </p>
                         <p>
                            <pb n="75" facs="tcp:63077:48"/>
 Or the Circumference being given, to find the
@@ -39000,8 +39017,20 @@ every Case except the Second and the Eighth.
 In both which Cases there are but two Problems.
 And thus I have done with Right angled Spheri<g ref="char:EOLhyphen"/>cal
 Triangles.</p>
-                           <figure/>
-                           <figure/>
+                           <p>4. In Oblique angled Spherical Triangles
+<pb facs="tcp:63077:144"/>
+                              <figure/>
+                              <pb facs="tcp:63077:145"/>
+                              <pb facs="tcp:63077:145"/>
+                              <figure/>
+                              <pb facs="tcp:63077:146"/>
+                              <pb n="267" facs="tcp:63077:146"/>
+there are twelve Cases, ten whereof may be re<g ref="char:EOLhyphen"/>solved
+by the Catholick Proposition; If the
+Spherical Triangle propounded be first convert<g ref="char:EOLhyphen"/>ed
+into two right, by letting fall of a Perpendi<g ref="char:EOLhyphen"/>cular,
+sometimes within, sometimes without the
+Triangle.</p>
                            <p>5. If the Angles at the Base be both acute
 or both obtuse, the Perpendicular shall fall with<g ref="char:EOLhyphen"/>in
 the Triangle; but if one of the Angles of
@@ -40533,7 +40562,13 @@ this and many other Problems is supposed to be
 given, with the Distance of the Tropicks, Ele<g ref="char:EOLhyphen"/>vation
 of the <hi>Equator,</hi> and Latitude of the Place,
 may thus be found.</p>
-                        <figure/>
+                        <p>Take with a Quadrant, the Sun's greatest and
+least Meridian Altitudes, on the longest and
+shortest days of the year, which suppose at <hi>London</hi>
+to be as followeth.
+<pb n="283" facs="tcp:63077:154"/>
+                           <figure/>
+                        </p>
                         <list>
                            <pb facs="tcp:63077:155"/>
                            <pb n="283" facs="tcp:63077:155"/>
@@ -41800,8 +41835,13 @@ Degrees.</head>
                            <figure>
                               <p>A Figure of the Twelve Coelestial Houses.</p>
                            </figure>
-                           <figure/>
-                           <figure/>
+                           <p>
+                              <pb facs="tcp:63077:168"/>
+                              <figure/>
+                              <pb facs="tcp:63077:169"/>
+                              <pb facs="tcp:63077:169"/>
+                              <figure/>
+                           </p>
                         </div>
                      </div>
                   </div>
@@ -44827,8 +44867,18 @@ of the <hi>Aphelion;</hi> but Mr. <hi>Street</hi> in his <hi>Astrono<g ref="char
 Carolina</hi> Page 23, makes the constant place
 of the <hi>Aphelion</hi> to be 68<hi rend="sup">d</hi>. 20. 00, and the ☉ ex<g ref="char:EOLhyphen"/>centricity
 1732.</p>
-                     <figure/>
-                     <figure/>
+                     <p>And from the observation of <hi>Tycho 1590
+March</hi> the eleventh. in the Meridian of <hi>V<g ref="char:EOLhyphen"/>raniburg,</hi>
+but reduced to the Meridian of
+<hi>London. March</hi> the tenth, hour 23. 2′. He
+<pb n="376" facs="tcp:63077:205"/>
+                        <figure/>
+                        <pb facs="tcp:63077:206"/>
+                        <pb facs="tcp:63077:206"/>
+                        <figure/>
+                        <pb facs="tcp:63077:207"/>
+                        <pb n="377" facs="tcp:63077:207"/>
+determines the Earths mean Anomaly thus.</p>
                      <list>
                         <label>The place of the Sun observed</label>
                         <item>♈. 0. 33. 19</item>
@@ -45227,7 +45277,17 @@ line, intercepted between the <hi>Ellipsis</hi> and the Cir<g ref="char:EOLhyphe
 circumscribing it. This Mr. <hi>Street</hi> maketh
 use of in his <hi>Astronomia Carolina,</hi> and this I thought
 not amiss to add here.</p>
-                     <figure/>
+                     <p>In Fig. 9. let <hi>ABCPDF</hi> be supposed an <hi>El<g ref="char:EOLhyphen"/>lipsis,</hi>
+and the Circle <hi>AGPK</hi> described upon the
+extremes of the transverse Diameter, and the Or<g ref="char:EOLhyphen"/>dinates
+<hi>KN</hi> and <hi>OB</hi> extended to <hi>G</hi> and <hi>M</hi> in
+<pb facs="tcp:63077:210"/>
+                        <figure/>
+                        <pb facs="tcp:63077:211"/>
+                        <pb n="383" facs="tcp:63077:211"/>
+the Periphery of the Circle: then by the 21 of the
+first of <hi>Apollonius.</hi>
+                     </p>
                      <p>XN. GX∷OB tang. OEB. OM tang. OEM.</p>
                      <p>And the Angle <hi>OEM-OEB=BEM=ETY,</hi>
 the variation to be deducted from the Elliptick
@@ -45327,7 +45387,25 @@ is <hi>X.</hi> 15. 17. 28.</p>
                      <argument>
                         <p>To find the place of the fixed Stars.</p>
                      </argument>
-                     <figure/>
+                     <p>THe annual motion of the fixed Stars is, as
+hath been shewed, 50 Seconds, hence to
+find their places at any time assigned, we have
+exhibited a Table of the Longitude and Latitude
+of some of the most fixed Stars, from the Cata<g ref="char:EOLhyphen"/>logue
+<pb facs="tcp:63077:212"/>
+                        <figure/>
+                        <pb facs="tcp:63077:213"/>
+                        <pb n="385" facs="tcp:63077:213"/>
+of noble <hi>Tycho</hi> for the year of our Lord
+1600 compleat. Now then the motion of the
+fixed Stars according to our Tables being com<g ref="char:EOLhyphen"/>puted,
+for the difference of time between 1600
+and the time propounded, and subtracted from
+the place in the Table, when the time given is
+before 1600, or added to it, when the time gi<g ref="char:EOLhyphen"/>ven
+is after; the Summ or difference shall be the
+place desired. The Latitude and Magnitude are
+still the same.</p>
                      <p>Example. Let the given time be 1500, the
 difference of time is 100 years, and the moti<g ref="char:EOLhyphen"/>on
 of the fixed Stars for 100 years is 0. 38580.</p>
@@ -45701,7 +45779,10 @@ years <hi>April</hi>
 <hi>AEra Chr.</hi> 6. 20. 12. 45.</label>
                         <item> </item>
                      </list>
-                     <figure/>
+                     <p>
+                        <pb facs="tcp:63077:217"/>
+                        <figure/>
+                     </p>
                      <list>
                         <pb facs="tcp:63077:218"/>
                         <pb n="393" facs="tcp:63077:218"/>
@@ -45898,7 +45979,10 @@ deg.</label>
 deg.</label>
                            <item>74. 69845.679010</item>
                         </list>
-                        <figure/>
+                        <p>
+                           <pb facs="tcp:63077:220"/>
+                           <figure/>
+                        </p>
                         <list>
                            <pb facs="tcp:63077:221"/>
                            <pb n="397" facs="tcp:63077:221"/>
